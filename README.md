@@ -27,8 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-![az_recorder_20221020_012224_edited](https://user-images.githubusercontent.com/74270386/196871918-e55815d0-b5ad-4766-a6d9-414e436ec0d4.gif)
+<img src='https://user-images.githubusercontent.com/74270386/196871918-e55815d0-b5ad-4766-a6d9-414e436ec0d4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
